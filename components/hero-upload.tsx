@@ -173,6 +173,10 @@ export function HeroUpload({
               </>
             )}
 
+            <p className="mx-auto mt-6 max-w-xl text-xs leading-relaxed text-muted-foreground">
+              {t.privacyNotice}
+            </p>
+
             {/* Switch Chế độ Trẻ em */}
             <div className="mt-8 flex items-center justify-center">
               <label className="flex cursor-pointer items-center gap-3 rounded-2xl border border-border bg-background px-4 py-3">

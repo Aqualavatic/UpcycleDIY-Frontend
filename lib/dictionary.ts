@@ -38,6 +38,7 @@ export const dictionary = {
     arAimCamera: "Lia camera vào rác để nhận hướng dẫn",
     arLiveGuidance: "Đang hướng dẫn AR trực tiếp!",
     arFrameHint: "Đưa rác vào khung hình",
+    privacyNotice: "Hệ thống xử lý trực tiếp theo thời gian thực và hoàn toàn không lưu trữ hình ảnh hay dữ liệu cá nhân của bạn trên máy chủ.",
   },
   en: {
     heroBadge: "AI-powered home recycling assistant",
@@ -76,6 +77,7 @@ export const dictionary = {
     arAimCamera: "Point the camera at waste for guidance",
     arLiveGuidance: "Live AR guidance is active!",
     arFrameHint: "Place waste inside the frame",
+    privacyNotice: "The system processes data in real-time and does not store your images or personal data on our servers.",
   },
 } as const
 
